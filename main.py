@@ -5,9 +5,6 @@ from ytmusicapi import YTMusic
 from random import randint
 import json
 
-# Horizontal Rule Length
-HR_LENGTH = 100
-
 # YouTube API object
 ytmusic = YTMusic()
 
@@ -23,9 +20,6 @@ full_search_string = all_words[randint(0, len(all_words) - 1)]
 search_string = full_search_string[0:5]
 
 # Call API to get search results for artists and songs
-print(f"Original Search Term: {full_search_string}")
-print(f"Searching for: {search_string}\n")
-print("-" * HR_LENGTH)
 artist_search_results = ytmusic.search(search_string, "artists", limit=200)
 song_search_results = ytmusic.search(search_string, "songs", limit=200)
 
@@ -40,22 +34,12 @@ for artist in artist_search_results:
 for song in song_search_results:
     results_list.append([song["artists"][0]["name"] + " - " + song["title"],
                         song["artists"][0]["id"]])
-#    results_list.append([song["artists"][0]["name"], song["artists"][0]["id"]])
-
-# Show the results found in the API call
-for result in results_list:
-    print(result[0])
-
-print("-" * HR_LENGTH)
-
-# Total number of results from the API call
-print(f"\nNumber of results: {len(results_list)}")
 
 # Show the random result and the URL to see the artists site page
 if len(results_list) == 0:
     print("\nNo results found...")
 else:
     random_result = results_list[randint(0,len(results_list) - 1)]
-    print(f"\nYour result: {random_result[0]}")
-    print(f"https://music.youtube.com/channel/{random_result[1]}")
+    print(f"\n{random_result[0]}\n")
+    print(f"https://music.youtube.com/channel/{random_result[1]}\n")
 
