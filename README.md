@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
-DJ Charles - Words (feat. Lago) [Afrorub Remix] (feat. Lago)https://music.youtube.com/channel/UCgKGaORCaIVDcWZZZDCpqUA
+Aditya Narayan - Jibanaku Thare Bujhile Manuahttps://music.youtube.com/channel/UC_cQQbTAzFRCIIMMheDuj_g
 
