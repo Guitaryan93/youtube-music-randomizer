@@ -1,3 +1,8 @@
+# Ignore the README template file and python script used to create random
+# artist on the GitHub repo README each day
+README-template.md
+readme-update.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
