@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
-Aditya Narayan - Jibanaku Thare Bujhile Manuahttps://music.youtube.com/channel/UC_cQQbTAzFRCIIMMheDuj_g
+ Fg Will - Set it Off  https://music.youtube.com/channel/UCuNeMyTAVe5JlniFoaJiBnA  
 
