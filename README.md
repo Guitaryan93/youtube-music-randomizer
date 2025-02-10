@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Fg Will - Set it Off  https://music.youtube.com/channel/UCuNeMyTAVe5JlniFoaJiBnA  
+ Asela Perera - A Foregone Conclusion  https://music.youtube.com/channel/UCDrrJCYwjMDCMqTKBtJ34eA  
 
