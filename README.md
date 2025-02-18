@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- No results found... 
+ Gamiz - LA FUNDA (feat. AG 821)  https://music.youtube.com/channel/UCj4XQUTwCpgyqn3ebAArEvQ  
 
