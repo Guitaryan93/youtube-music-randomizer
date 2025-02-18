@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Yancey PLACEHOLDER Shekinah - Another Chance (Live)  https://music.youtube.com/channel/UC_27IUqtbe0HCJhADeY2rSg  
+ Mick Jenkins - Angles (feat. Noname PLACEHOLDER Xavier Omär)  https://music.youtube.com/channel/UCDBhdRIanIWk7M7aorhKexg  
 
