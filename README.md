@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Asela Perera - A Foregone Conclusion  https://music.youtube.com/channel/UCDrrJCYwjMDCMqTKBtJ34eA  
+ Yancey PLACEHOLDER Shekinah - Another Chance (Live)  https://music.youtube.com/channel/UC_27IUqtbe0HCJhADeY2rSg  
 
