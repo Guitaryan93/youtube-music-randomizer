@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
-PLACEHOLDER
+ Mahmoud Khalil Al Hussary - Sourate As Sajda (Warch)  https://music.youtube.com/channel/UCwm64bGffIkJB1PFsDetisg  
 
