@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Betusile - Ngena Noah  https://music.youtube.com/channel/UCTAYqNRJdw8uoQI89OtLgww  
+ Fortunat FrÃ¶lich Christian Zehnder ft. Cor viril - Cor viril 1  https://music.youtube.com/channel/None  
 
