@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Fortunat FrÃ¶lich Christian Zehnder ft. Cor viril - Cor viril 1  https://music.youtube.com/channel/None  
+ ANKIT TIWARI - DIL CHEEZ TUJHE DEDI  https://music.youtube.com/channel/UC3xhOiFwndOYc57JV1iHCuw  
 
