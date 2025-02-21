@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- ANKIT TIWARI - DIL CHEEZ TUJHE DEDI  https://music.youtube.com/channel/UC3xhOiFwndOYc57JV1iHCuw  
+ Le rivage - askip  https://music.youtube.com/channel/UC2knhiAfoxSIkKIyhI5_tmQ  
 
