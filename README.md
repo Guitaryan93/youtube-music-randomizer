@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Le rivage - askip  https://music.youtube.com/channel/UC2knhiAfoxSIkKIyhI5_tmQ  
+ Abdelaziz Stati - Aatini Lvisa  https://music.youtube.com/channel/UCrexhK8QhoDKwEgPoYM9Syg  
 
