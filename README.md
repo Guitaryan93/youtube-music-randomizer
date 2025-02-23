@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Abdelaziz Stati - Aatini Lvisa  https://music.youtube.com/channel/UCrexhK8QhoDKwEgPoYM9Syg  
+ Kodaline - All I Want  https://music.youtube.com/channel/UC0cymQddFci7e31o7EIznYw  
 
