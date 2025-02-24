@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Kodaline - All I Want  https://music.youtube.com/channel/UC0cymQddFci7e31o7EIznYw  
+ Epica - Force Of The Shore  https://music.youtube.com/channel/UCsXkTJM-ydmIkR5CuEWEloA  
 
