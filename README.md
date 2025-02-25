@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Epica - Force Of The Shore  https://music.youtube.com/channel/UCsXkTJM-ydmIkR5CuEWEloA  
+ Tom Tom Club - Call of the Wild  https://music.youtube.com/channel/UC1IvcSg0OixDDluBFShToCA  
 
