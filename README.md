@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Tom Tom Club - Call of the Wild  https://music.youtube.com/channel/UC1IvcSg0OixDDluBFShToCA  
+ Alex M.O.R.P.H. - Take My Breath (Intro)  https://music.youtube.com/channel/UC4O0c4HHozrbIWaBNtANyMw  
 
