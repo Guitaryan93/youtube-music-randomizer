@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Mr. Green - It's All Around me w/ Drago Balti  https://music.youtube.com/channel/UCoNqsClPFQxZWIyMVCQR95g  
+ Marilyn Manson - (s)AINT  https://music.youtube.com/channel/UC1OKR9fkIEm_QqxJuGCDrJQ  
 
