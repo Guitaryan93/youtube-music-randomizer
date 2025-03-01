@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Marilyn Manson - (s)AINT  https://music.youtube.com/channel/UC1OKR9fkIEm_QqxJuGCDrJQ  
+ Marta Alegre Vida - Limpe sua Mente  https://music.youtube.com/channel/UCEFzekHMM3zrSl0IJYJ9c7A  
 
