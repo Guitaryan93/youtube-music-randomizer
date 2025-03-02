@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Marta Alegre Vida - Limpe sua Mente  https://music.youtube.com/channel/UCEFzekHMM3zrSl0IJYJ9c7A  
+ Daewoo.$ - Nightcall  https://music.youtube.com/channel/UCucjVnkk4jqCtTA2JROPSGQ  
 
