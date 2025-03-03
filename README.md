@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Daewoo.$ - Nightcall  https://music.youtube.com/channel/UCucjVnkk4jqCtTA2JROPSGQ  
+ Pitch!  https://music.youtube.com/channel/UCQGyPaJpIOGUQ-knakS4UxA  
 
