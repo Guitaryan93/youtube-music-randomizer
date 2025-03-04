@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Pitch!  https://music.youtube.com/channel/UCQGyPaJpIOGUQ-knakS4UxA  
+ Casual - Snaggle Puss  https://music.youtube.com/channel/UCRJATsoyYAhlOeNRBznPvIw  
 
