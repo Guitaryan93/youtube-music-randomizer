@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Casual - Snaggle Puss  https://music.youtube.com/channel/UCRJATsoyYAhlOeNRBznPvIw  
+ Shrieky - Blind Saints  https://music.youtube.com/channel/UClycPUBbT_VCEaVWluO2HCw  
 
