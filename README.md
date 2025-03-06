@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Shrieky - Blind Saints  https://music.youtube.com/channel/UClycPUBbT_VCEaVWluO2HCw  
+ Nephew Tommy - I Left My Medicine in Yo House  https://music.youtube.com/channel/UCPDjn1rr5s7YY8-AsGmbREQ  
 
