@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Nephew Tommy - I Left My Medicine in Yo House  https://music.youtube.com/channel/UCPDjn1rr5s7YY8-AsGmbREQ  
+ Sarah Mace - Srekjna Nova Godina  https://music.youtube.com/channel/UCupQUhdLjYW8MNGBJ_kPK5Q  
 
