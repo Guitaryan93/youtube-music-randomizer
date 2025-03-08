@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Sarah Mace - Srekjna Nova Godina  https://music.youtube.com/channel/UCupQUhdLjYW8MNGBJ_kPK5Q  
+ S.H.O.K. - Du denkst  https://music.youtube.com/channel/UCOCspTqnKjKX5AHaPafHdlg  
 
