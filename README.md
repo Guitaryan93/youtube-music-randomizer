@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- S.H.O.K. - Du denkst  https://music.youtube.com/channel/UCOCspTqnKjKX5AHaPafHdlg  
+ Ed Sheeran - Stop The Rain  https://music.youtube.com/channel/UClmXPfaYhXOYsNn_QUyheWQ  
 
