@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Ed Sheeran - Stop The Rain  https://music.youtube.com/channel/UClmXPfaYhXOYsNn_QUyheWQ  
+ Faydee - Amari  https://music.youtube.com/channel/UC0ITc55ErLkHnGp26P-wmRA  
 
