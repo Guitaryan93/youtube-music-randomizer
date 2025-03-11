@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Faydee - Amari  https://music.youtube.com/channel/UC0ITc55ErLkHnGp26P-wmRA  
+ Joseph Zaihmingthanga - Hellai Di  https://music.youtube.com/channel/None  
 
