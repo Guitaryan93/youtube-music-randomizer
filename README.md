@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Joseph Zaihmingthanga - Hellai Di  https://music.youtube.com/channel/None  
+ INTEC - China Temple  https://music.youtube.com/channel/UCHiE75Ihh88wnBluDenFocQ  
 
