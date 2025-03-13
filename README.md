@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- INTEC - China Temple  https://music.youtube.com/channel/UCHiE75Ihh88wnBluDenFocQ  
+ Palash Karmakar PLACEHOLDER Khoma - Keno Kandali  https://music.youtube.com/channel/None  
 
