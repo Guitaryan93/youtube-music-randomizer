@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Palash Karmakar PLACEHOLDER Khoma - Keno Kandali  https://music.youtube.com/channel/None  
+ Khadim Ghetto Eden - Comu Prede  https://music.youtube.com/channel/None  
 
