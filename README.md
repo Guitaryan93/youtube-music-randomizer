@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Khadim Ghetto Eden - Comu Prede  https://music.youtube.com/channel/None  
+ Exporta Samba  https://music.youtube.com/channel/UCQtpizl96u65oeFf8ugmGRg  
 
