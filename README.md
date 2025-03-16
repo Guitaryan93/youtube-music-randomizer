@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Exporta Samba  https://music.youtube.com/channel/UCQtpizl96u65oeFf8ugmGRg  
+ Faking - Hard Work  https://music.youtube.com/channel/UCxhon5rb5auRzxf95xQ-XYg  
 
