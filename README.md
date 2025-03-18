@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Suzan 7 Kak Ria Enes - Si Monod  https://music.youtube.com/channel/None  
+ Az Yet - Last Night  https://music.youtube.com/channel/UCBWX9QN_njIP6jbDMxTRlzg  
 
