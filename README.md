@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Az Yet - Last Night  https://music.youtube.com/channel/UCBWX9QN_njIP6jbDMxTRlzg  
+ BASIL GREG PLACEHOLDER GEORGE TELEK - Tarawa  https://music.youtube.com/channel/UCpBv-ZVmeVJBPREKUFdd4IA  
 
