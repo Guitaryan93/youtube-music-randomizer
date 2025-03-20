@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- BASIL GREG PLACEHOLDER GEORGE TELEK - Tarawa  https://music.youtube.com/channel/UCpBv-ZVmeVJBPREKUFdd4IA  
+ instryktor manyskripta - Intro  https://music.youtube.com/channel/None  
 
