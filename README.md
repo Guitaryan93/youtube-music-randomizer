@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- instryktor manyskripta - Intro  https://music.youtube.com/channel/None  
+ NATHANIEL BASSEY - Hallelujah Challenge Praise Medley  https://music.youtube.com/channel/UCnXEiNQ81Ua6_JXyP3XHu3g  
 
