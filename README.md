@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- snity boy - umbro  https://music.youtube.com/channel/None  
+ Alhaj Muhammad Sajid Qadri Attari - Mere Lau Ke Har Katre Mein  https://music.youtube.com/channel/UCSOy2frUN3vErEx2muVbsYw  
 
