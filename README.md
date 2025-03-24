@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Alhaj Muhammad Sajid Qadri Attari - Mere Lau Ke Har Katre Mein  https://music.youtube.com/channel/UCSOy2frUN3vErEx2muVbsYw  
+ Half Pint - Mr. Landlord  https://music.youtube.com/channel/UCT1GrfPmE4hITJfGIwT6QGg  
 
