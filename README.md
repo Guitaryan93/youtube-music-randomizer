@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Half Pint - Mr. Landlord  https://music.youtube.com/channel/UCT1GrfPmE4hITJfGIwT6QGg  
+ Sohail Sen - What's Your Raashee? (Chehre Jo Dekhe Hain)  https://music.youtube.com/channel/UCOfSnoDy-FGquEfPDYTlT1g  
 
