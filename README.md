@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Sohail Sen - What's Your Raashee? (Chehre Jo Dekhe Hain)  https://music.youtube.com/channel/UCOfSnoDy-FGquEfPDYTlT1g  
+ Meditation Music Solitudem  https://music.youtube.com/channel/UCiZ465agYwcvkRULSPbhdQQ  
 
