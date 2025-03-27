@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Meditation Music Solitudem  https://music.youtube.com/channel/UCiZ465agYwcvkRULSPbhdQQ  
+ Anthony Broku Cribb - Keep It Southern (Sped Up Version)  https://music.youtube.com/channel/UCspfQX1lcoKJ7PKa-CyviYg  
 
