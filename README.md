@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
-PLACEHOLDER
+ Santigold - Disparate Youth  https://music.youtube.com/channel/UCuHOLiNuJIwQsbYC4Q0k4Qw  
 
