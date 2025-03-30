@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Santigold - Disparate Youth  https://music.youtube.com/channel/UCuHOLiNuJIwQsbYC4Q0k4Qw  
+ Three Days Grace - Pain  https://music.youtube.com/channel/UCfgRkxIufLnYKicOY8aJQ2g  
 
