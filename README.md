@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Three Days Grace - Pain  https://music.youtube.com/channel/UCfgRkxIufLnYKicOY8aJQ2g  
+ Leon Thomas - X-Rated  https://music.youtube.com/channel/UCBDfLmzh6h295RdpHPoPQuw  
 
