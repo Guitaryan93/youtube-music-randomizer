@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Leon Thomas - X-Rated  https://music.youtube.com/channel/UCBDfLmzh6h295RdpHPoPQuw  
+ Radio 45  https://music.youtube.com/channel/UC5nUW69CKR28HSgLBA6ybdQ  
 
