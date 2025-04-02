@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Radio 45  https://music.youtube.com/channel/UC5nUW69CKR28HSgLBA6ybdQ  
+ TreD - NightShift (feat. 08comethru)  https://music.youtube.com/channel/UC9jgRAdeIsj-JCOFaMx3k7Q  
 
