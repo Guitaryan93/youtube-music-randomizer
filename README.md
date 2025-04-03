@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- TreD - NightShift (feat. 08comethru)  https://music.youtube.com/channel/UC9jgRAdeIsj-JCOFaMx3k7Q  
+ No results found... 
 
