@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Blind John Davis - Pagin' Mr. Page  https://music.youtube.com/channel/UC82wwfRTq9JfHlYEoydwDRw  
+PLACEHOLDER
 
