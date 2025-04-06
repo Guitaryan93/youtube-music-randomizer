@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
-PLACEHOLDER
+ Udit Narayan - Hum to Dil Se Haare  https://music.youtube.com/channel/UC13ToEQgfmTe8_GW19LYtCg  
 
