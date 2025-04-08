@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Clive Titmuss - C Minor Suite: I. Pavane II. Allemanda III. Coura  https://music.youtube.com/channel/UCGktQbk1M94evrGoYqi0TuQ  
+ Vzkoficiall - Corpo Quente  https://music.youtube.com/channel/UCfBrAmjrdcPO6Cmaq_aOHKA  
 
