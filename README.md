@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Roger Waters - In the Flesh / Have a Cigar (live)  https://music.youtube.com/channel/UCjL3Tr2bN7H6Ivx_dusK5XA  
+ Tulsi Kumar - Hum Mar Jayenge  https://music.youtube.com/channel/UCzJRkr4MuVD7sEGHR_zRSEQ  
 
