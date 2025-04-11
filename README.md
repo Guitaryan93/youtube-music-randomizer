@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Tulsi Kumar - Hum Mar Jayenge  https://music.youtube.com/channel/UCzJRkr4MuVD7sEGHR_zRSEQ  
+ Weeekly - After School (After School)  https://music.youtube.com/channel/UCkkBzJl-jD2qWC_r67NSqEg  
 
