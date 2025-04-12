@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Weeekly - After School (After School)  https://music.youtube.com/channel/UCkkBzJl-jD2qWC_r67NSqEg  
+ Insen - Wonju  https://music.youtube.com/channel/UCBX71YwA-ZB4IE9Mak9mDFg  
 
