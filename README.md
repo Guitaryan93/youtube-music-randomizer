@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Insen - Wonju  https://music.youtube.com/channel/UCBX71YwA-ZB4IE9Mak9mDFg  
+ MisterB - In the Company of Ghosts  https://music.youtube.com/channel/UC0rnXmqZm8ZYfAEEBtHMTwA  
 
