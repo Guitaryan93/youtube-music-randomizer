@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- MisterB - In the Company of Ghosts  https://music.youtube.com/channel/UC0rnXmqZm8ZYfAEEBtHMTwA  
+ Eugenio Finardi - Doctor Doctor  https://music.youtube.com/channel/UCMaAtzAfQ7v9vZBzRPcPqzg  
 
