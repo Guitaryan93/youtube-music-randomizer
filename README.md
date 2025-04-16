@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Hakim Tidaf - Dayen  https://music.youtube.com/channel/UC_9MS5G4fxJmP3K3UXzwvEA  
+ Parker Jack - STIGMA  https://music.youtube.com/channel/UCRfpT4zPgnrj0VVBOp0_OqA  
 
