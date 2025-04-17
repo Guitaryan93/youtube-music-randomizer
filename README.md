@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Parker Jack - STIGMA  https://music.youtube.com/channel/UCRfpT4zPgnrj0VVBOp0_OqA  
+ Danielyan - wrap  https://music.youtube.com/channel/UC6uJzBG3efbz9XMc6mnIiPg  
 
