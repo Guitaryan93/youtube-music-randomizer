@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Danielyan - wrap  https://music.youtube.com/channel/UC6uJzBG3efbz9XMc6mnIiPg  
+ T.M.S - En Otra 2050 (feat. Biggo)  https://music.youtube.com/channel/UC4xDLhjTN2s1q7wUH_QsRtQ  
 
