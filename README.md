@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- T.M.S - En Otra 2050 (feat. Biggo)  https://music.youtube.com/channel/UC4xDLhjTN2s1q7wUH_QsRtQ  
+ Rick Chyme - Smothered Sparks  https://music.youtube.com/channel/UC-8QRnZxV1nCUdFxoYjUk3A  
 
