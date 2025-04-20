@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Rick Chyme - Smothered Sparks  https://music.youtube.com/channel/UC-8QRnZxV1nCUdFxoYjUk3A  
+ Beck - One Foot in the Grave  https://music.youtube.com/channel/UC8fxkahdLdfHk8pF1fRYD-w  
 
