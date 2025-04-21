@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Beck - One Foot in the Grave  https://music.youtube.com/channel/UC8fxkahdLdfHk8pF1fRYD-w  
+ Shahzado Tewno - Sotho Thuyo Bhalo Thuo um  https://music.youtube.com/channel/UCbXXLQjCG9xbg_YJUEblsbg  
 
