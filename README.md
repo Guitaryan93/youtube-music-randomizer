@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Shahzado Tewno - Sotho Thuyo Bhalo Thuo um  https://music.youtube.com/channel/UCbXXLQjCG9xbg_YJUEblsbg  
+ Alma Meris - Seguro  https://music.youtube.com/channel/UCtSng5HZjclyZ27Ne8fcYKA  
 
