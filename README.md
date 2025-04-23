@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Alma Meris - Seguro  https://music.youtube.com/channel/UCtSng5HZjclyZ27Ne8fcYKA  
+ Wawa Shazwa  https://music.youtube.com/channel/UC-27bS4Dzp26IGoo_h3OlOA  
 
