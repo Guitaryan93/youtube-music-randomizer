@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Wawa Shazwa  https://music.youtube.com/channel/UC-27bS4Dzp26IGoo_h3OlOA  
+ 7OHANN - IMMUN  https://music.youtube.com/channel/UC4uqgSGzbwhQHtkLVaxW3PA  
 
