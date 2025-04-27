@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- P. Susheela PLACEHOLDER S. P. Balasubramanyam - Sugama Thalaiva  https://music.youtube.com/channel/None  
+ O Hermit - Flail  https://music.youtube.com/channel/UCztqjPI5O6jybep3ULqVIfw  
 
