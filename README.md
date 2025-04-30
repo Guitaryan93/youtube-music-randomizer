@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Libel - What's In Your Heart  https://music.youtube.com/channel/UC_MAklTOE_lU9vB5M7-hntA  
+ Clutch - WYSIWYG  https://music.youtube.com/channel/UChFx-3fX89Bl9GeAqOdCwxQ  
 
