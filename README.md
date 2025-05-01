@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Clutch - WYSIWYG  https://music.youtube.com/channel/UChFx-3fX89Bl9GeAqOdCwxQ  
+ røsa ruuska - codec freq 141.80 (betray)  https://music.youtube.com/channel/UC_CP0IEtqlBTocaM7ZMJ21Q  
 
