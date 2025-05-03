@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- T.I. - Trap Muzik  https://music.youtube.com/channel/UCwwHxdscieNH0dzWmOwnuqw  
+ Milind Shinde - Chita Chandanawari  https://music.youtube.com/channel/UCmQfLGiekFYetxo9xNl3kLg  
 
