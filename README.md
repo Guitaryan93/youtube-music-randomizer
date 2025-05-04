@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Milind Shinde - Chita Chandanawari  https://music.youtube.com/channel/UCmQfLGiekFYetxo9xNl3kLg  
+ Sachin Warrier - Motta Modatisari  https://music.youtube.com/channel/UC9rwMC3UPGVfqslKbsSysFA  
 
