@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Sachin Warrier - Motta Modatisari  https://music.youtube.com/channel/UC9rwMC3UPGVfqslKbsSysFA  
+ MANDO REGIO - El Charro  https://music.youtube.com/channel/UC58wBmzNxVHksJ-uygyLF1A  
 
