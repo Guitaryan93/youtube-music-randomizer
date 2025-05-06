@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- MANDO REGIO - El Charro  https://music.youtube.com/channel/UC58wBmzNxVHksJ-uygyLF1A  
+ Acces Bit  https://music.youtube.com/channel/UCi56bwLjnzce9SoE2pmPJbQ  
 
