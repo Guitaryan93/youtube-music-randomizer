@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Acces Bit  https://music.youtube.com/channel/UCi56bwLjnzce9SoE2pmPJbQ  
+ Stillme. - Sermons  https://music.youtube.com/channel/UCIj_Lm7FSa__K52TmMto5Xw  
 
