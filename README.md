@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Stillme. - Sermons  https://music.youtube.com/channel/UCIj_Lm7FSa__K52TmMto5Xw  
+ Trio Tamazunchale De Jorge Muñoz - La Presumida  https://music.youtube.com/channel/UCw0Nx98R0YoPd2L4F4YI2Mw  
 
