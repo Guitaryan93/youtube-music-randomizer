@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Trio Tamazunchale De Jorge Muñoz - La Presumida  https://music.youtube.com/channel/UCw0Nx98R0YoPd2L4F4YI2Mw  
+ La Femme d'Ali - Larva whale  https://music.youtube.com/channel/UCqCD0nFIvs64uK3pmacsh3w  
 
