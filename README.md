@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- La Femme d'Ali - Larva whale  https://music.youtube.com/channel/UCqCD0nFIvs64uK3pmacsh3w  
+ Mike Deny E I Simpatici - Corsa  https://music.youtube.com/channel/UCdxv42GMbVBegDqS_kfAVzQ  
 
