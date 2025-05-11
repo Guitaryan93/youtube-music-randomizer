@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Mike Deny E I Simpatici - Corsa  https://music.youtube.com/channel/UCdxv42GMbVBegDqS_kfAVzQ  
+ Arijit Singh - Apna Bana Le (From "Bhediya")  https://music.youtube.com/channel/UCDxKh1gFWeYsqePvgVzmPoQ  
 
