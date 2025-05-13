@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Grischa Lichtenberger - 0415_01_perepdotchka long tn ms rearg b  https://music.youtube.com/channel/UCNUpWp6rUEwvpB3frbDkniQ  
+ Seema Mishra - Chirmi  https://music.youtube.com/channel/UCiyaGz43U-2xeD9crQc9Wrw  
 
