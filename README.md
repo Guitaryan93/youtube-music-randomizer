@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Ramón Torres - Sobre El Techo Cae La Lluvia  https://music.youtube.com/channel/UClJ4PRGq3xxAEDCnqNfxXRg  
+ Mini Humain - Trama  https://music.youtube.com/channel/UCgCSgsG-Asj169yQHXPlutQ  
 
