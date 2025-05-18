@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Junior Bvndo - Yacht  https://music.youtube.com/channel/UCjmcutRT45mZS5ERJ2JjKPw  
+ Sabarish - Nallathu Varuthuka  https://music.youtube.com/channel/UCIosVEUr9IKpjFU--CpBdaA  
 
