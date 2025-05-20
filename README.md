@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Bullet For My Valentine - Leech  https://music.youtube.com/channel/UCTmXENHeU8wvjd4I180VdBw  
+PLACEHOLDER
 
