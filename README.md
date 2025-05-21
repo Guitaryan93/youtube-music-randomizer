@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
-PLACEHOLDER
+ I AM - Eternal Steel  https://music.youtube.com/channel/UCkVZpM2jJBfboHreY4Cko0A  
 
