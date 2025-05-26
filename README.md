@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Bunga Permata - Sirah Mumet Pikiran Ruwet  https://music.youtube.com/channel/UCZQclXbR1R0llRFhf0nsbCQ  
+ 1bula - Glucose  https://music.youtube.com/channel/UCKyAVAe6H28qJSNilGYBk4g  
 
