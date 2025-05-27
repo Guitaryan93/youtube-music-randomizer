@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- 1bula - Glucose  https://music.youtube.com/channel/UCKyAVAe6H28qJSNilGYBk4g  
+PLACEHOLDER
 
