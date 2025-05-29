@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Nipun Aggarwal - Laxmi Mantra 108 Times  https://music.youtube.com/channel/UCGSX-4s71MbSymA1oRPsV-Q  
+ L7NNON - Ai Preto  https://music.youtube.com/channel/UCPxwQAAQF-erZ8N83_mi22A  
 
