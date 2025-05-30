@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- L7NNON - Ai Preto  https://music.youtube.com/channel/UCPxwQAAQF-erZ8N83_mi22A  
+ Arvis Rekets - Vai gribi zvaigzni paņemt saujā  https://music.youtube.com/channel/UCoHcR6c93BB73hD1696N3jQ  
 
