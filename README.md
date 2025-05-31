@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Arvis Rekets - Vai gribi zvaigzni paņemt saujā  https://music.youtube.com/channel/UCoHcR6c93BB73hD1696N3jQ  
+ Under Change  https://music.youtube.com/channel/UCktmGo-Y3xlz-4j9kZPin0w  
 
