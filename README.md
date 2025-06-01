@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Under Change  https://music.youtube.com/channel/UCktmGo-Y3xlz-4j9kZPin0w  
+ Stan Getz - The Girl From Ipanema  https://music.youtube.com/channel/UCITWDrIiWv0Y-zj8xrvoY-Q  
 
