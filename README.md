@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Stan Getz - The Girl From Ipanema  https://music.youtube.com/channel/UCITWDrIiWv0Y-zj8xrvoY-Q  
+ Sycon Cilatum - Critters  https://music.youtube.com/channel/None  
 
