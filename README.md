@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Sycon Cilatum - Critters  https://music.youtube.com/channel/None  
+ Shadow - Plus - EXTERNAL  https://music.youtube.com/channel/UCcYB0b7077v5Cebl4oND2-Q  
 
