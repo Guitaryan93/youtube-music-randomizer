@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Shadow - Plus - EXTERNAL  https://music.youtube.com/channel/UCcYB0b7077v5Cebl4oND2-Q  
+ Qbik - Alkolove  https://music.youtube.com/channel/UCTtFKnXyfkYC5LS5VySmdlg  
 
