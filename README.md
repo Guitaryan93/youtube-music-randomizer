@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Qbik - Alkolove  https://music.youtube.com/channel/UCTtFKnXyfkYC5LS5VySmdlg  
+ Ann Marie - Different  https://music.youtube.com/channel/UCijQKhYmEYhPlvv5rOzkISA  
 
