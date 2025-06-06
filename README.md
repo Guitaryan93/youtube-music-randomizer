@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Ann Marie - Different  https://music.youtube.com/channel/UCijQKhYmEYhPlvv5rOzkISA  
+ Afras - Kahvaltı  https://music.youtube.com/channel/UCNg6UXRa4jRLP-utnML6jWg  
 
