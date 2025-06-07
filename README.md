@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Afras - Kahvaltı  https://music.youtube.com/channel/UCNg6UXRa4jRLP-utnML6jWg  
+ CNinE PLACEHOLDER FourC - Prisoner's Cage  https://music.youtube.com/channel/None  
 
