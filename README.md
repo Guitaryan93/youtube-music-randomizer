@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- CNinE PLACEHOLDER FourC - Prisoner's Cage  https://music.youtube.com/channel/None  
+ Bhai Amritpal Singh Ji Jalandhar Wale - Charan Chalo Marg Gobind  https://music.youtube.com/channel/UCT0nVgNnCIzFEJK5zj3W3Rg  
 
