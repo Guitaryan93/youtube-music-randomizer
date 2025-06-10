@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- DeColo - Puhlickyouluv  https://music.youtube.com/channel/UCqFRATxaYquilIyCnZuDNlw  
+ Nidali - Apollo  https://music.youtube.com/channel/UCGvc4lWtYLngip73qQSnEwA  
 
