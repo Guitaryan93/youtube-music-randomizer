@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Nidali - Apollo  https://music.youtube.com/channel/UCGvc4lWtYLngip73qQSnEwA  
+ Tuarbaguger Escha - Hier kommt Alex  https://music.youtube.com/channel/None  
 
