@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- zahid khan - Zoy Da Plar Pa Ghag Ke Proth We  https://music.youtube.com/channel/UCV2WT88yjmIeDFDKTUkWQFQ  
+ Param  https://music.youtube.com/channel/UCKSFsO6IXXrPcZYPHAE0ing  
 
