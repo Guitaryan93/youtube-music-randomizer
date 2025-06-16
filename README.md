@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Anton Pann - Sus la drumul mare  https://music.youtube.com/channel/UCjZfUmxRnlhuXBWwxmrMZHQ  
+ Vijay Sharma - Rang Badla Zamane Lakh  https://music.youtube.com/channel/UCF-0CNbpPIdx0jEmqKrjKow  
 
