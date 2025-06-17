@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Vijay Sharma - Rang Badla Zamane Lakh  https://music.youtube.com/channel/UCF-0CNbpPIdx0jEmqKrjKow  
+ TryHardNinja - Dead but Not Buried  https://music.youtube.com/channel/UCGTUcddfPpFCG6IoiiT2Z_A  
 
