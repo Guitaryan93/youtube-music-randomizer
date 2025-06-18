@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- TryHardNinja - Dead but Not Buried  https://music.youtube.com/channel/UCGTUcddfPpFCG6IoiiT2Z_A  
+ Carpa - Mantis Guardz  https://music.youtube.com/channel/UCxCTxxWA2pPMKNpuzIt1xnw  
 
