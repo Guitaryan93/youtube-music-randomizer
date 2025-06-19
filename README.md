@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Carpa - Mantis Guardz  https://music.youtube.com/channel/UCxCTxxWA2pPMKNpuzIt1xnw  
+ Vidura Barrios - Mahamrityunjaya Bija Mantra  https://music.youtube.com/channel/UC0SMAciJ9N6MSoQD2-JJH2g  
 
