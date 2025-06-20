@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Vidura Barrios - Mahamrityunjaya Bija Mantra  https://music.youtube.com/channel/UC0SMAciJ9N6MSoQD2-JJH2g  
+ Geordie Greep - The New Sound  https://music.youtube.com/channel/UCzCSjNiZAep8B9H4C1OKWFQ  
 
