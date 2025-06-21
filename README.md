@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Geordie Greep - The New Sound  https://music.youtube.com/channel/UCzCSjNiZAep8B9H4C1OKWFQ  
+ Xubra - Qui s'y Frotte s'Ifrit  https://music.youtube.com/channel/None  
 
