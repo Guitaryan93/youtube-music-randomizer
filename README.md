@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Xubra - Qui s'y Frotte s'Ifrit  https://music.youtube.com/channel/None  
+ Gamcha Polash - Miche Doshi  https://music.youtube.com/channel/UChlia99qLseQ7Gj3Lg6picg  
 
