@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Gamcha Polash - Miche Doshi  https://music.youtube.com/channel/UChlia99qLseQ7Gj3Lg6picg  
+ pxradox - KING VON ANTI PIRACY SCREEN  https://music.youtube.com/channel/None  
 
