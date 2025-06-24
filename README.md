@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- pxradox - KING VON ANTI PIRACY SCREEN  https://music.youtube.com/channel/None  
+ Slick Rick - The Ruler's Back  https://music.youtube.com/channel/UCib_EXltOfVOg-mk0-naNEA  
 
