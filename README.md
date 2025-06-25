@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Slick Rick - The Ruler's Back  https://music.youtube.com/channel/UCib_EXltOfVOg-mk0-naNEA  
+ Daniel Trifu - Vinovat E Omu-n Lume  https://music.youtube.com/channel/UCv3ixXsNlTf4zpV8IbRD4zQ  
 
