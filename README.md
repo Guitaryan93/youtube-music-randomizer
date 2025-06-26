@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Daniel Trifu - Vinovat E Omu-n Lume  https://music.youtube.com/channel/UCv3ixXsNlTf4zpV8IbRD4zQ  
+ Acros(s) Quartet - Vento di libertà  https://music.youtube.com/channel/UC_o-TOat1r3_RvH46vO1PpA  
 
