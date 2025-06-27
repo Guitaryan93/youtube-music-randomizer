@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Acros(s) Quartet - Vento di libertà  https://music.youtube.com/channel/UC_o-TOat1r3_RvH46vO1PpA  
+ ABBA - Move On  https://music.youtube.com/channel/UCuubAXN9AYgtcmSrD0frggQ  
 
