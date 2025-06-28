@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- ABBA - Move On  https://music.youtube.com/channel/UCuubAXN9AYgtcmSrD0frggQ  
+ Ilaiyaraaja  https://music.youtube.com/channel/UCwzzSiogpjsYBMoyVcwDXwQ  
 
