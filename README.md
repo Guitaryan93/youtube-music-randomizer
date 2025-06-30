@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Ben Kenney - Fires  https://music.youtube.com/channel/UC7_yr_voMd8vyPq8qP0PtuQ  
+ Dada Rasta  https://music.youtube.com/channel/UCvm4rUEV2WAZG7FrcHxf3Lw  
 
