@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Dada Rasta  https://music.youtube.com/channel/UCvm4rUEV2WAZG7FrcHxf3Lw  
+ Frederick Keeve - Reaching  https://music.youtube.com/channel/UCVZBU4zZoMf1xq0H7r8FnoQ  
 
