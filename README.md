@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- No results found... 
+ Raj Brar - Raee Tere Husn Ne  https://music.youtube.com/channel/UC_VR-ZUa4E-33GxSFPKsZuA  
 
