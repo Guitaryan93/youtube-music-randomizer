@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Raj Brar - Raee Tere Husn Ne  https://music.youtube.com/channel/UC_VR-ZUa4E-33GxSFPKsZuA  
+ P Gliz - free my committee  https://music.youtube.com/channel/UCHis3WVEkTtCnCX-pLmoU5g  
 
