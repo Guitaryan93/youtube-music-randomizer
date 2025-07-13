@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- P Gliz - free my committee  https://music.youtube.com/channel/UCHis3WVEkTtCnCX-pLmoU5g  
+ Guns N' Roses - Sympathy For The Devil  https://music.youtube.com/channel/UCSLbbBoUqpin6BE34whSOvA  
 
