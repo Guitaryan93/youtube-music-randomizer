@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Guns N' Roses - Sympathy For The Devil  https://music.youtube.com/channel/UCSLbbBoUqpin6BE34whSOvA  
+ Keith 303 - Simplicity  https://music.youtube.com/channel/UC4gkSGpbZietYEHC5dESpNw  
 
