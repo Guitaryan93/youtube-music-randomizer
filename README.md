@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Keith 303 - Simplicity  https://music.youtube.com/channel/UC4gkSGpbZietYEHC5dESpNw  
+ Kendrick Lamar - Count Me Out  https://music.youtube.com/channel/UCprAFmT0C6O4X0ToEXpeFTQ  
 
