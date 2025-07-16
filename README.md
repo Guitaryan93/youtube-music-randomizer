@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Kendrick Lamar - Count Me Out  https://music.youtube.com/channel/UCprAFmT0C6O4X0ToEXpeFTQ  
+ Kid Cudi - Baptized In Fire (feat. Travis Scott)  https://music.youtube.com/channel/UCo2-dPLJcpbZK84FIt0vD-w  
 
