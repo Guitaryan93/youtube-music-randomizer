@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Kid Cudi - Baptized In Fire (feat. Travis Scott)  https://music.youtube.com/channel/UCo2-dPLJcpbZK84FIt0vD-w  
+ D.O.S. - Mr. Zeigler's Intro  https://music.youtube.com/channel/UCCkuJ_KsiLki97hcysmgyLQ  
 
