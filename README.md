@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- D.O.S. - Mr. Zeigler's Intro  https://music.youtube.com/channel/UCCkuJ_KsiLki97hcysmgyLQ  
+ Elín Ósk Óskarsdóttir - Fra Monte Pincio  https://music.youtube.com/channel/UCrBa6rCo-L7lYESjJ54i3dg  
 
