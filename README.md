@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Dinosaur Jr. - Turnip Farm  https://music.youtube.com/channel/UCIhZQ-Z3wMKtMVJ7k9gc-gA  
+ Watazumido-Shuso - Dai-Bosatsu  https://music.youtube.com/channel/UCHCYllXrLZFMNRW1bh61-GA  
 
