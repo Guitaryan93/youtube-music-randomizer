@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Watazumido-Shuso - Dai-Bosatsu  https://music.youtube.com/channel/UCHCYllXrLZFMNRW1bh61-GA  
+ Glass Can - Penta  https://music.youtube.com/channel/None  
 
