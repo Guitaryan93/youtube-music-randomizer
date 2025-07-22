@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Glass Can - Penta  https://music.youtube.com/channel/None  
+ Nain Alvarez - La Lipo  https://music.youtube.com/channel/None  
 
