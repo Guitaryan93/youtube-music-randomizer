@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Strange Humans - Araka  https://music.youtube.com/channel/UC4rQGLb3_F8Y46W4VRcdjVA  
+ Umberto Pagliaroli - Cyclo  https://music.youtube.com/channel/UCe_uvieIfGVODusYykwnJKg  
 
