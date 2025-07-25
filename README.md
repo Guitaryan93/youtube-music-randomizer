@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Umberto Pagliaroli - Cyclo  https://music.youtube.com/channel/UCe_uvieIfGVODusYykwnJKg  
+ Lotus Latri  https://music.youtube.com/channel/UCqbxUQu6AVGqiv5nsMM1u8A  
 
