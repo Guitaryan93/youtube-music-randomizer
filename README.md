@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Lotus Latri  https://music.youtube.com/channel/UCqbxUQu6AVGqiv5nsMM1u8A  
+ MATAJIWA - Into Your Grace (Remastered 2023)  https://music.youtube.com/channel/UCgZP9DpqxpkKkLR02MSH1OA  
 
