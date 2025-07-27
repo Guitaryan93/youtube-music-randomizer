@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- MATAJIWA - Into Your Grace (Remastered 2023)  https://music.youtube.com/channel/UCgZP9DpqxpkKkLR02MSH1OA  
+ Grupo Super Paso Musical  https://music.youtube.com/channel/UC94zsv5GixZlGKCcO76-N2A  
 
