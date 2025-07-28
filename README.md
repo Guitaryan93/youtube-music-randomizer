@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Grupo Super Paso Musical  https://music.youtube.com/channel/UC94zsv5GixZlGKCcO76-N2A  
+ No results found... 
 
