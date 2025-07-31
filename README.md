@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Manic Disease - Beyond Comis Boundaries  https://music.youtube.com/channel/UC_9Mm08WVHcpdFTO2DX_CwQ  
+ Barrington Levy - Under Mi Sensi  https://music.youtube.com/channel/UCwbJQdLZcDj8UADN49nc5OQ  
 
