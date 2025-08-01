@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Barrington Levy - Under Mi Sensi  https://music.youtube.com/channel/UCwbJQdLZcDj8UADN49nc5OQ  
+ Lexicon Wolf - Burk Road  https://music.youtube.com/channel/UCjn8lELFTejKF3KAxBDA4RQ  
 
