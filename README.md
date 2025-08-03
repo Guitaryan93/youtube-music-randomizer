@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- koshi - Across the Lilii Borea  https://music.youtube.com/channel/UCWkVeYO5z1OR7_j52jm1Myg  
+ No results found... 
 
