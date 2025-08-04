@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- No results found... 
+ Elevation Worship - Shall Not Want (feat. Chandler Moore)  https://music.youtube.com/channel/UC6qyi6LqMfxyPf8UrIYwANg  
 
