@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Elevation Worship - Shall Not Want (feat. Chandler Moore)  https://music.youtube.com/channel/UC6qyi6LqMfxyPf8UrIYwANg  
+ Mavado - Touch The Road  https://music.youtube.com/channel/UCBM_gIaVDAmEvUrbbAh_Bxw  
 
