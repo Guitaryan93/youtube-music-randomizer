@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Mavado - Touch The Road  https://music.youtube.com/channel/UCBM_gIaVDAmEvUrbbAh_Bxw  
+ Teresa Merante - Facimu paci  https://music.youtube.com/channel/UCxx7tqWHUp76iUN6XvQlgNg  
 
