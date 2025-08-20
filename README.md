@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Teresa Merante - Facimu paci  https://music.youtube.com/channel/UCxx7tqWHUp76iUN6XvQlgNg  
+PLACEHOLDER
 
