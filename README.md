@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Arthr - Balloon (feat. Adam Callum)  https://music.youtube.com/channel/UCt2tz3rehCfsDWTDEGMJ1vQ  
+ Ovia - A Scent of Fallen Apples  https://music.youtube.com/channel/UCEYk7P3QqIwqNx2vAKggo-A  
 
