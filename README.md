@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Ovia - A Scent of Fallen Apples  https://music.youtube.com/channel/UCEYk7P3QqIwqNx2vAKggo-A  
+ Novillos de la Sierra - Estoy Aqui  https://music.youtube.com/channel/UCaKRandPnZzYZSHDe8rGCSQ  
 
