@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Novillos de la Sierra - Estoy Aqui  https://music.youtube.com/channel/UCaKRandPnZzYZSHDe8rGCSQ  
+ Fuseton - Vertex Weekly  https://music.youtube.com/channel/UCAnLd-poixedr9paWuA9g8A  
 
