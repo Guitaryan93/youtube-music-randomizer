@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Fuseton - Vertex Weekly  https://music.youtube.com/channel/UCAnLd-poixedr9paWuA9g8A  
+ sonmuu1 - Kasim  https://music.youtube.com/channel/UCYbwWDeDhLjgEUDVxKqcDLg  
 
