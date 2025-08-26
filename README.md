@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- sonmuu1 - Kasim  https://music.youtube.com/channel/UCYbwWDeDhLjgEUDVxKqcDLg  
+ TRXSHBXY - Untitled Funk - Ultra Slowed  https://music.youtube.com/channel/UCzjZn0YccJiee911hx-rqJg  
 
