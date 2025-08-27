@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- TRXSHBXY - Untitled Funk - Ultra Slowed  https://music.youtube.com/channel/UCzjZn0YccJiee911hx-rqJg  
+ Castro - Mzungu  https://music.youtube.com/channel/UCxS7eK5Ae-rGGKwlBDbiceQ  
 
