@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Humphrey Lyttelton - Snake Rag  https://music.youtube.com/channel/UCi8ArqlNbf8wLT9txqBRy0w  
+ No results found... 
 
