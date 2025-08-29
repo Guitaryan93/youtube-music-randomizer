@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Trading Yesterday - Love Song Requiem  https://music.youtube.com/channel/UC8ChUNgITuhkrdOenh1FHtw  
+ Helvi - Lake Algae  https://music.youtube.com/channel/UCH-VSyPdtCrrvKQ5XhGVJUQ  
 
