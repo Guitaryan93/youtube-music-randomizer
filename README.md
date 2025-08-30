@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Helvi - Lake Algae  https://music.youtube.com/channel/UCH-VSyPdtCrrvKQ5XhGVJUQ  
+ J. Mono - ell  https://music.youtube.com/channel/UC5AuuRgne-UwfgWX1cco43Q  
 
