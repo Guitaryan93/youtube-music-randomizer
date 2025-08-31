@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- J. Mono - ell  https://music.youtube.com/channel/UC5AuuRgne-UwfgWX1cco43Q  
+ Ya Malb - Baby Eu Vou Dar Pra Tu  https://music.youtube.com/channel/UCaoLEUuBQ3UKgbg82cTvYeA  
 
