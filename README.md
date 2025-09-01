@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Ya Malb - Baby Eu Vou Dar Pra Tu  https://music.youtube.com/channel/UCaoLEUuBQ3UKgbg82cTvYeA  
+ Paresh Sharma - Vat Dil Ni  https://music.youtube.com/channel/UCWddnAsd_y2SCsSpRemKF8A  
 
