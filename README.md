@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Paresh Sharma - Vat Dil Ni  https://music.youtube.com/channel/UCWddnAsd_y2SCsSpRemKF8A  
+ Sharry Mann - Zindagi  https://music.youtube.com/channel/UCZiFq0925r_OpxbNDHHG4OQ  
 
