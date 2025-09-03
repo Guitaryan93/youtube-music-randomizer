@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Sharry Mann - Zindagi  https://music.youtube.com/channel/UCZiFq0925r_OpxbNDHHG4OQ  
+ Saif Zohan - Chole Gecho tate Ki (New Version)  https://music.youtube.com/channel/UCBgY_hwFqfP7He-Ap1-ELTw  
 
