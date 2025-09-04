@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Saif Zohan - Chole Gecho tate Ki (New Version)  https://music.youtube.com/channel/UCBgY_hwFqfP7He-Ap1-ELTw  
+ Captain Accident - 20 Pence  https://music.youtube.com/channel/UC-F6BQnGAQoYpyoBA6gaplg  
 
