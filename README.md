@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Green Day - 21 Guns  https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ  
+ hi otaku - immea  https://music.youtube.com/channel/UClZO7wLapRrz73TGfLgMWyw  
 
