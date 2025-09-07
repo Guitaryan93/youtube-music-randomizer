@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- hi otaku - immea  https://music.youtube.com/channel/UClZO7wLapRrz73TGfLgMWyw  
+ Orpha Rojas - Busquemos Su Amor  https://music.youtube.com/channel/UCd1FkEFzjPg8C3FeIiz0qZg  
 
