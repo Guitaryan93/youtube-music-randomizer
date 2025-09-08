@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Orpha Rojas - Busquemos Su Amor  https://music.youtube.com/channel/UCd1FkEFzjPg8C3FeIiz0qZg  
+ Dàmaris Gelabert - Recollím!  https://music.youtube.com/channel/UCIumPBt0bPxqjeDXi_dZtgg  
 
