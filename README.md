@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Dàmaris Gelabert - Recollím!  https://music.youtube.com/channel/UCIumPBt0bPxqjeDXi_dZtgg  
+ Kobba - Det heter Bäss  https://music.youtube.com/channel/UCtjgWmfCUkRP6JpOI-5-UiQ  
 
