@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Kobba - Det heter Bäss  https://music.youtube.com/channel/UCtjgWmfCUkRP6JpOI-5-UiQ  
+ Jahleel - Up a Notch (feat. Charim PLACEHOLDER Shem)  https://music.youtube.com/channel/UCf7RKmOhykYgZ26ApdCpGkQ  
 
