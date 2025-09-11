@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Jahleel - Up a Notch (feat. Charim PLACEHOLDER Shem)  https://music.youtube.com/channel/UCf7RKmOhykYgZ26ApdCpGkQ  
+ Fatemah Ladak - Safar Zainab Ka  https://music.youtube.com/channel/UCfG1YzR2yqM9a8kQUT23MRQ  
 
