@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Fatemah Ladak - Safar Zainab Ka  https://music.youtube.com/channel/UCfG1YzR2yqM9a8kQUT23MRQ  
+ Kaya1up - F The Other Side  https://music.youtube.com/channel/UCnfBJOPTwZsmyJVG8Q_ZWqg  
 
