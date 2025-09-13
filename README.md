@@ -12,5 +12,5 @@ Using a massive list of words, the [ytmusicapi](https://ytmusicapi.readthedocs.i
 ---
 # Today's Random Artist
 
- Kaya1up - F The Other Side  https://music.youtube.com/channel/UCnfBJOPTwZsmyJVG8Q_ZWqg  
+ Willie Hutch - Hurt So Bad  https://music.youtube.com/channel/UCvZqPeZOEfBdZ2nagVEQVOQ  
 
